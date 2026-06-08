@@ -126,11 +126,11 @@ For scientific inquiries regarding the study:
 Prof. Nishant Chakravorty
 School of Medical Science and Technology (SMST)
 Indian Institute of Technology Kharagpur
-Email: nishant@smst.iitkgp.ac.in 
+Email: nishant@smst.iitkgp.ac.in. 
 For code-related issues:
 Dr. Motiur Rahaman
 School of Medical Science and Technology (SMST)
 Indian Institute of Technology Kharagpur
-Email: motiurrahaman24@iitkgp.ac.in
+Email: motiurrahaman24@iitkgp.ac.in.
 
 For scientific questions, suggestions, or collaborations, please feel free to contact.

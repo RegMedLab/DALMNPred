@@ -123,7 +123,7 @@ Contact
 
 ## Contact
 For scientific inquiries regarding the study:
-Prof. Nishant Chakravorty
+Dr. Nishant Chakravorty
 School of Medical Science and Technology (SMST)
 Indian Institute of Technology Kharagpur
 Email: nishant@smst.iitkgp.ac.in. 
